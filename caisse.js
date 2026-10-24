@@ -18,3 +18,7 @@ if (total <= budget_client){
 }else{
     console.log("Budget insuffisant")
 }
+//utilisation de la boucle 
+for (let i=1; i<=5; i++){
+    console.log("Achat numéro", +i)
+}
