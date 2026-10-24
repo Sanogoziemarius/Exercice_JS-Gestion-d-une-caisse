@@ -1,7 +1,7 @@
 //Declaration des variables
 const budget_client= 20000
 const prix_cahier= 1500
-const quantite_cahiers=4
+const quantite_cahiers= 30  
 const prix_stylos=500
 const quantite_stylos=3
 const prix_total_cahiers=prix_cahier*quantite_cahiers
